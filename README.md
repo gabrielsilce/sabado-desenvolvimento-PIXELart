@@ -6,18 +6,12 @@
 
 <img width="749" height="339" alt="image" src="https://github.com/user-attachments/assets/1143aa16-eacc-4e00-aa0a-1713ef4bdd12" />
 
-Página	                 Objetivo	                Conteúdo necessário
+## 3º passo — Inventário de conteúdo
 
-Home	                   Apresentar o site e 
-                        direcionar o usuário	       Banner com chamada principal, jogos em destaque, novidades, botões para Catálogo e Lançamentos
-
-
-
-
-                        Aqui está o inventário de conteúdo do PixelVault, com as 10 páginas no mesmo formato da tabela do slide. Cada linha reflete o que já está no código.
+Defina o papel de cada página antes de criá-la.
 
 | Página | Objetivo | Conteúdo necessário |
-
+|---|---|---|
 | **Home** | Apresentar o site e direcionar o usuário | Banner com chamada principal, jogos em destaque, novidades, botões para Catálogo e Lançamentos |
 | **Catálogo** | Mostrar todos os jogos e facilitar a escolha | Cards (capa, nome, gênero, plataforma, preço, nota), filtros por gênero |
 | **Detalhes do jogo** | Convencer o usuário e levar à compra | Imagem grande, descrição, screenshots, requisitos mínimos, preço, botão de compra |
@@ -28,3 +22,7 @@ Home	                   Apresentar o site e
 | **Sobre nós** | Apresentar o site e a equipe | Texto da missão e cards com os membros da equipe (nome e função) |
 | **Contato** | Receber mensagens e dúvidas | Formulário (nome, e-mail, mensagem) e informações (e-mail, telefone, endereço, horário) |
 | **Login / Cadastro** | Permitir o acesso à conta | Formulário de entrada, formulário de cadastro e alternância entre os dois |
+
+
+
+       
