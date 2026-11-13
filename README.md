@@ -23,6 +23,91 @@ Defina o papel de cada página antes de criá-la.
 | **Contato** | Receber mensagens e dúvidas | Formulário (nome, e-mail, mensagem) e informações (e-mail, telefone, endereço, horário) |
 | **Login / Cadastro** | Permitir o acesso à conta | Formulário de entrada, formulário de cadastro e alternância entre os dois |
 
+## 4º passo — Wireframe
 
+Um esboço simples de cada página, sem preocupação com "ficar bonito". Todas as páginas seguem o mesmo esqueleto: **header, nav, título + apresentação, cards e footer**.
+
+### Home
+
+```text
++--------------------------------------------------------+
+|                         HEADER                         |
++--------------------------------------------------------+
+|                          NAV                           |
+|  Início | Catálogo | Lançamentos | Ranking | Contato   |
++--------------------------------------------------------+
+|                 TÍTULO + APRESENTAÇÃO                  |
+|               chamada principal + botões               |
++--------------------------------------------------------+
+| +--------------+   +--------------+   +--------------+ |
+| |    CARD 1    |   |    CARD 2    |   |    CARD 3    | |
+| | capa, preço  |   | capa, preço  |   | capa, preço  | |
+| +--------------+   +--------------+   +--------------+ |
++--------------------------------------------------------+
+|                       NOVIDADES                        |
++--------------------------------------------------------+
+|                         FOOTER                         |
++--------------------------------------------------------+
+```
+
+### Catálogo (página interna)
+
+```text
++--------------------------------------------------------+
+|                         HEADER                         |
++--------------------------------------------------------+
+|                          NAV                           |
+|  Início | Catálogo | Lançamentos | Ranking | Contato   |
++--------------------------------------------------------+
+|                    TÍTULO + FILTROS                    |
+|           Todos | Ação | RPG | FPS | Corrida           |
++--------------------------------------------------------+
+| +--------------+   +--------------+   +--------------+ |
+| |    CARD 1    |   |    CARD 2    |   |    CARD 3    | |
+| | capa, preço  |   | capa, preço  |   | capa, preço  | |
+| +--------------+   +--------------+   +--------------+ |
+| +--------------+   +--------------+   +--------------+ |
+| |    CARD 4    |   |    CARD 5    |   |    CARD 6    | |
+| | capa, preço  |   | capa, preço  |   | capa, preço  | |
+| +--------------+   +--------------+   +--------------+ |
++--------------------------------------------------------+
+|                         FOOTER                         |
++--------------------------------------------------------+
+```
+
+### Contato
+
+```text
++--------------------------------------------------------+
+|                         HEADER                         |
++--------------------------------------------------------+
+|                          NAV                           |
+|  Início | Catálogo | Lançamentos | Ranking | Contato   |
++--------------------------------------------------------+
+|                 TÍTULO + APRESENTAÇÃO                  |
+|                    Fale com a gente                    |
++--------------------------------------------------------+
+| +--------------------+  +----------------------------+ |
+| |    INFORMAÇÕES     |  |         FORMULÁRIO         | |
+| |                    |  | [Nome                    ] | |
+| |       E-mail       |  | [E-mail                  ] | |
+| |      Telefone      |  | [Mensagem                ] | |
+| |      Endereço      |  | [                        ] | |
+| |      Horário       |  | [         ENVIAR         ] | |
+| +--------------------+  +----------------------------+ |
++--------------------------------------------------------+
+|                         FOOTER                         |
++--------------------------------------------------------+
+```
+
+### Reaproveitamento dos padrões
+
+| Página | Padrão reutilizado |
+|---|---|
+| Categorias, Lançamentos, Notícias | Catálogo (título + cards) |
+| Ranking | Catálogo, com lista numerada no lugar dos cards |
+| Sobre nós | Home (título + apresentação + cards da equipe) |
+| Detalhes do jogo | Duas colunas: imagem e screenshots à esquerda, descrição e compra à direita |
+| Login / Cadastro | Formulário do Contato, em uma coluna |
 
        
