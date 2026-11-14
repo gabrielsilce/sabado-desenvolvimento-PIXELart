@@ -1,4 +1,4 @@
-
+## 2º passo — Sitemap
 <img width="1267" height="753" alt="image" src="https://github.com/user-attachments/assets/2671be23-3aaf-4ca3-befd-abc2350b5946" />
 
 ## 3º passo — Inventário de conteúdo
