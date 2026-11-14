@@ -312,27 +312,22 @@ Um esboço simples de cada página, sem preocupação com "ficar bonito". Todas 
 | Detalhes do jogo | Duas colunas: imagem e screenshots à esquerda, descrição e compra à direita |
 | Login / Cadastro | Formulário do Contato, em uma coluna |
 
-# 5. Inventário de Conteúdo
-
-| Página | Objetivo | Conteúdo necessário |
-|---|---|---|
-| Início (`index.html`) | Apresentar a plataforma e destacar seus principais conteúdos. | Apresentação da PixelVault, catálogos, jogos, promoções, avaliações, notícias relacionadas e produtos em alta. |
-| Catálogo (`catalogo.html`) | Apresentar os jogos disponíveis na plataforma. | Imagem dos jogos, preços, promoções, gênero dos jogos e barra de pesquisa. |
-| Categorias (`categorias.html`) | Organizar os jogos conforme seus respectivos gêneros. | Catálogos divididos por gêneros, capa dos jogos, barra de pesquisa e descrição dos jogos. |
-| Contato (`contato.html`) | Disponibilizar canais de comunicação entre usuários e a plataforma. | Opção de cadastro de e-mail/número de WhatsApp, acesso ao e-mail/WhatsApp da PixelVault. |
-| Detalhes do jogo (`jogo.html`) | Apresentar informações específicas sobre um jogo selecionado. | Nome do jogo, capa do jogo, gênero, breve descrição da história, avaliações, preço, promoções/descontos, opção de baixar uma demo e botão de compra. |
-| Lançamentos (`lancamentos.html`) | Divulgar jogos recém-lançados e futuros lançamentos. | Uma aba específica que mostre todos os jogos que foram lançados dentro de um período de um mês e jogos que irão ser lançados em breve. |
-| Login (`login.html`) | Permitir que os usuários acessem ou criem uma conta. | Formulário de cadastro que peça o e-mail, senha, nome do jogador e um aceite de termos e condições. |
-| Notícias (`noticias.html`) | Informar os usuários sobre novidades do mercado de games. | Lançamentos de jogos, avisos sobre inscrições de campeonatos, atualizações de campeões referente a certos campeonatos/competições e atualizações nos softwares dos games. |
-| Orçamento (`orcamento.html`) | Registrar a pesquisa comparativa de domínio e hospedagem e receber pedidos de orçamento. | Tabelas de domínio e hospedagem, estimativa de custo, recomendação e formulário de orçamento. |
-| Ranking (`ranking.html`) | Exibir os jogos mais bem avaliados pela comunidade. | Lista de todos os jogos, do mais avaliado ao menos avaliado, comentários dos gamers referente aos jogos, capa dos jogos, breve descrição e opção de compra. |
-| Sobre nós (`sobre.html`) | Apresentar a identidade e os objetivos da PixelVault. | Missão, visão e valores da PixelVault, história e equipe. |
-
-# 6. Wireframe de Baixa Fidelidade
-
-## 6.1 Wireframe da página inicial (Home)
-
-**Objetivo:** apresentar a plataforma, destacar jogos disponíveis e direcionar os visitantes para as principais funcionalidades.
+5. Inventário de Conteúdo
+Página	Objetivo	Conteúdo necessário
+Início (index.html)	Apresentar a plataforma e destacar seus principais conteúdos.	Apresentação da PixelVault, catálogos, jogos, promoções, avaliações, notícias relacionadas e produtos em alta.
+Catálogo (catalogo.html)	Apresentar os jogos disponíveis na plataforma.	Imagem dos jogos, preços, promoções, gênero dos jogos e barra de pesquisa.
+Categorias (categorias.html)	Organizar os jogos conforme seus respectivos gêneros.	Catálogos divididos por gêneros, capa dos jogos, barra de pesquisa e descrição dos jogos.
+Contato (contato.html)	Disponibilizar canais de comunicação entre usuários e a plataforma.	Opção de cadastro de e-mail/número de WhatsApp, acesso ao e-mail/WhatsApp da PixelVault.
+Detalhes do jogo (jogo.html)	Apresentar informações específicas sobre um jogo selecionado.	Nome do jogo, capa do jogo, gênero, breve descrição da história, avaliações, preço, promoções/descontos, opção de baixar uma demo e botão de compra.
+Lançamentos (lancamentos.html)	Divulgar jogos recém-lançados e futuros lançamentos.	Uma aba específica que mostre todos os jogos que foram lançados dentro de um período de um mês e jogos que irão ser lançados em breve.
+Login (login.html)	Permitir que os usuários acessem ou criem uma conta.	Formulário de cadastro que peça o e-mail, senha, nome do jogador e um aceite de termos e condições.
+Notícias (noticias.html)	Informar os usuários sobre novidades do mercado de games.	Lançamentos de jogos, avisos sobre inscrições de campeonatos, atualizações de campeões referente a certos campeonatos/competições e atualizações nos softwares dos games.
+Orçamento (orcamento.html)	Registrar a pesquisa comparativa de domínio e hospedagem e receber pedidos de orçamento.	Tabelas de domínio e hospedagem, estimativa de custo, recomendação e formulário de orçamento.
+Ranking (ranking.html)	Exibir os jogos mais bem avaliados pela comunidade.	Lista de todos os jogos, do mais avaliado ao menos avaliado, comentários dos gamers referente aos jogos, capa dos jogos, breve descrição e opção de compra.
+Sobre nós (sobre.html)	Apresentar a identidade e os objetivos da PixelVault.	Missão, visão e valores da PixelVault, história e equipe.
+6. Wireframe de Baixa Fidelidade
+6.1 Wireframe da página inicial (Home)
+Objetivo: apresentar a plataforma, destacar jogos disponíveis e direcionar os visitantes para as principais funcionalidades.
 
 ```text
 +--------------------------------------------------+
