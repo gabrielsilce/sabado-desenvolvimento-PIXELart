@@ -1,4 +1,4 @@
-# Planejamento do site
+# Planejamento do site.
 
 Este documento reúne o planejamento do PixelVault, seguindo os passos do trabalho: visão geral, sitemap, inventário de conteúdo e wireframes.
 
