@@ -9,7 +9,7 @@ Registre aqui cada encontro ou etapa de trabalho: data, quem participou, o que f
 | (preencher) | 1. Visão geral | Definição do tema, do público-alvo e do escopo mínimo | (Gabriel) | 
 | (preencher) | 2. Sitemap | Desenho das páginas e da navegação entre elas | (Vitor) | 
 | (preencher) | 3. Inventário de conteúdo | Objetivo e conteúdo de cada página | (Gabriel) |
-| (preencher) | 4. Wireframes | Esboços da Home, do Catálogo e do Contato | (Vitor) | (preencher) |
+| (preencher) | 4. Wireframes | Esboços da Home, do Catálogo e do Contato | (Vitor) | 
 | (preencher) | 5. Desenvolvimento | Criação do HTML, do CSS e da estrutura de pastas | (Gracielle) | 
 | (preencher) | 6. Orçamento | Pesquisa comparativa de domínio e hospedagem | (Luara) | 
 | (preencher) | 7. Multimídia | Inclusão da trilha sonora em áudio | (Raphael) |
